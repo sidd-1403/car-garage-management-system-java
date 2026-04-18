@@ -60,7 +60,7 @@ CarGarageSystem/
 ## 🖥️ Sample Output
  
 ```
-Enter customer name: Siddhesh
+Enter customer name: Rahul
 Enter car number: MH10AB1234
 Enter car type: SUV
  
@@ -94,7 +94,7 @@ Press 0 to generate bill
 Select Service ID: 0
  
 ------------ FINAL BILL ------------
-Customer Name  : Siddhesh
+Customer Name  : Rahul
 Car Number     : MH10AB1234
 Car Type       : SUV
  
